@@ -1,7 +1,9 @@
 #How to Setup
 
 virtualenv -p python3 my-venv
+
 . my-venv/bin/activate
+
 pip3 install -r requirements.txt
 
 
