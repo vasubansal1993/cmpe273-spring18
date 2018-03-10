@@ -7,13 +7,9 @@ virtualenv -p python3 my-venv
 pip3 install -r requirements.txt
 
 
-
-
 #How to run Chat server
 
 python3 server.py
-
-
 
 
 #How to run a Chat client
